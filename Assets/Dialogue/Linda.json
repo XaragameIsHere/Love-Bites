@@ -1,0 +1,48 @@
+{
+  "startDialogue": 
+  [
+    {
+      "Subject": "Player",
+      "dialogueText": "Blahahahshdshdfhdhsfhdj",
+      "choices":
+      [
+        {
+          "Text": "DSfafgsdfgdsfgdsdfgd",
+          "Rapport": 1
+        },
+        {
+          "Text": "sdfgdfhdghdgh",
+          "Rapport": -1
+        },
+        {
+          "Text": "akjfsgjsafg",
+          "Rapport": 0
+        }
+      ]
+    }
+  ],
+  "restaurantDialogue":
+  [
+    {
+      "Subject": "Player",
+      "dialogueText": "Blahahahshdshdfhdhsfhdj"
+      
+    }
+  ],
+  "walkingDialogue":
+  [
+    {
+      "Subject": "Player",
+      "dialogueText": "Blahahahshdshdfhdhsfhdj"
+      
+    }
+  ],
+  "endDialogue":
+  [
+    {
+      "Subject": "Player",
+      "dialogueText": "Blahahahshdshdfhdhsfhdj"
+      
+    }
+  ]
+}
