@@ -1,0 +1,1120 @@
+{
+  "startDialogue": 
+  [
+    {
+      "Subject": "Narrator",
+      "dialogueText": "*Knock knock knock*",
+      "choices":
+      [
+        {
+          "Text": "",
+          "Rapport": 0
+        },
+        {
+          "Text": "",
+          "Rapport": 0
+        },
+        {
+          "Text": "",
+          "Rapport": 0
+        }
+      ]
+    },
+    {
+      "Subject": "Narrator",
+      "dialogueText": "You shove your hands awkwardly into the pockets of your jeans, ",
+      "choices":
+      [
+        {
+          "Text": "",
+          "Rapport": 0
+        },
+        {
+          "Text": "",
+          "Rapport": 0
+        },
+        {
+          "Text": "",
+          "Rapport": 0
+        }
+      ]
+    },
+    {
+      "Subject": "Narrator",
+      "dialogueText": "frantically trying to wipe off the sweat continually coating your palms.",
+      "choices":
+      [
+        {
+          "Text": "",
+          "Rapport": 0
+        },
+        {
+          "Text": "",
+          "Rapport": 0
+        },
+        {
+          "Text": "",
+          "Rapport": 0
+        }
+      ]
+    },
+    {
+      "Subject": "Narrator",
+      "dialogueText": "Just one night. Just a meal! Just a little date. ",
+      "choices":
+      [
+        {
+          "Text": "",
+          "Rapport": 0
+        },
+        {
+          "Text": "",
+          "Rapport": 0
+        },
+        {
+          "Text": "",
+          "Rapport": 0
+        }
+      ]
+    },
+    {
+      "Subject": "Narrator",
+      "dialogueText": "Just your first ever date,",
+      "choices":
+      [
+        {
+          "Text": "",
+          "Rapport": 0
+        },
+        {
+          "Text": "",
+          "Rapport": 0
+        },
+        {
+          "Text": "",
+          "Rapport": 0
+        }
+      ]
+    },
+    {
+      "Subject": "Narrator",
+      "dialogueText": "with a girl who may or may not want to tear into your throat. ",
+      "choices":
+      [
+        {
+          "Text": "",
+          "Rapport": 0
+        },
+        {
+          "Text": "",
+          "Rapport": 0
+        },
+        {
+          "Text": "",
+          "Rapport": 0
+        }
+      ]
+    },
+    {
+      "Subject": "Narrator",
+      "dialogueText": "Unfortunately, you're not into that.",
+      "choices":
+      [
+        {
+          "Text": "",
+          "Rapport": 0
+        },
+        {
+          "Text": "",
+          "Rapport": 0
+        },
+        {
+          "Text": "",
+          "Rapport": 0
+        }
+      ]
+    },
+    {
+      "Subject": "Narrator",
+      "dialogueText": "It’s already 9:30.",
+      "choices":
+      [
+        {
+          "Text": "",
+          "Rapport": 0
+        },
+        {
+          "Text": "",
+          "Rapport": 0
+        },
+        {
+          "Text": "",
+          "Rapport": 0
+        }
+      ]
+    },
+    {
+      "Subject": "Narrator",
+      "dialogueText": "Linda’s work only gives her an hour off for federally mandated lunch,",
+      "choices":
+      [
+        {
+          "Text": "",
+          "Rapport": 0
+        },
+        {
+          "Text": "",
+          "Rapport": 0
+        },
+        {
+          "Text": "",
+          "Rapport": 0
+        }
+      ]
+    },
+    {
+      "Subject": "Narrator",
+      "dialogueText": "and she told you this was the only break in her schedule.",
+      "choices":
+      [
+        {
+          "Text": "",
+          "Rapport": 0
+        },
+        {
+          "Text": "",
+          "Rapport": 0
+        },
+        {
+          "Text": "",
+          "Rapport": 0
+        }
+      ]
+    },
+    {
+      "Subject": "Narrator",
+      "dialogueText": "Honestly, you wonder how she’s even alive. ",
+      "choices":
+      [
+        {
+          "Text": "",
+          "Rapport": 0
+        },
+        {
+          "Text": "",
+          "Rapport": 0
+        },
+        {
+          "Text": "",
+          "Rapport": 0
+        }
+      ]
+    },
+    {
+      "Subject": "Narrator",
+      "dialogueText": "Even if she were undead,",
+      "choices":
+      [
+        {
+          "Text": "",
+          "Rapport": 0
+        },
+        {
+          "Text": "",
+          "Rapport": 0
+        },
+        {
+          "Text": "",
+          "Rapport": 0
+        }
+      ]
+    },
+    {
+      "Subject": "Narrator",
+      "dialogueText": "when would she possibly have the time to mosquito it up?",
+      "choices":
+      [
+        {
+          "Text": "",
+          "Rapport": 0
+        },
+        {
+          "Text": "",
+          "Rapport": 0
+        },
+        {
+          "Text": "",
+          "Rapport": 0
+        }
+      ]
+    },
+    {
+      "Subject": "Narrator",
+      "dialogueText": "But then again, vampires don’t typically ‘sleep’.",
+      "choices":
+      [
+        {
+          "Text": "",
+          "Rapport": 0
+        },
+        {
+          "Text": "",
+          "Rapport": 0
+        },
+        {
+          "Text": "",
+          "Rapport": 0
+        }
+      ]
+    },
+    {
+      "Subject": "Narrator",
+      "dialogueText": "It would explain how she’s functioning.",
+      "choices":
+      [
+        {
+          "Text": "",
+          "Rapport": 0
+        },
+        {
+          "Text": "",
+          "Rapport": 0
+        },
+        {
+          "Text": "",
+          "Rapport": 0
+        }
+      ]
+    },
+    {
+      "Subject": "Player",
+      "dialogueText": "No use debating this.",
+      "choices":
+      [
+        {
+          "Text": "",
+          "Rapport": 0
+        },
+        {
+          "Text": "",
+          "Rapport": 0
+        },
+        {
+          "Text": "",
+          "Rapport": 0
+        }
+      ]
+    },
+    {
+      "Subject": "Player",
+      "dialogueText": "You’re here to figure this out, after all, and you need evidence. ",
+      "choices":
+      [
+        {
+          "Text": "",
+          "Rapport": 0
+        },
+        {
+          "Text": "",
+          "Rapport": 0
+        },
+        {
+          "Text": "",
+          "Rapport": 0
+        }
+      ]
+    },
+    {
+      "Subject": "Player",
+      "dialogueText": "Right. Just prod as much as you can without weirding her out,",
+      "choices":
+      [
+        {
+          "Text": "",
+          "Rapport": 0
+        },
+        {
+          "Text": "",
+          "Rapport": 0
+        },
+        {
+          "Text": "",
+          "Rapport": 0
+        }
+      ]
+    },
+    {
+      "Subject": "Player",
+      "dialogueText": "and see if she slips up! This vampire investigation’ll be easy! ",
+      "choices":
+      [
+        {
+          "Text": "",
+          "Rapport": 0
+        },
+        {
+          "Text": "",
+          "Rapport": 0
+        },
+        {
+          "Text": "",
+          "Rapport": 0
+        }
+      ]
+    },
+    {
+      "Subject": "Narrator",
+      "dialogueText": "The door slowly creaks open. ",
+      "choices":
+      [
+        {
+          "Text": "",
+          "Rapport": 0
+        },
+        {
+          "Text": "",
+          "Rapport": 0
+        },
+        {
+          "Text": "",
+          "Rapport": 0
+        }
+      ]
+    },
+    {
+      "Subject": "Narrator",
+      "dialogueText": "A pair of dark eyes appear beyond the doorframe",
+      "choices":
+      [
+        {
+          "Text": "",
+          "Rapport": 0
+        },
+        {
+          "Text": "",
+          "Rapport": 0
+        },
+        {
+          "Text": "",
+          "Rapport": 0
+        }
+      ]
+    },
+    {
+      "Subject": "Narrator",
+      "dialogueText": "before her startlingly sheet-white skin appears in the moonlight.",
+      "choices":
+      [
+        {
+          "Text": "",
+          "Rapport": 0
+        },
+        {
+          "Text": "",
+          "Rapport": 0
+        },
+        {
+          "Text": "",
+          "Rapport": 0
+        }
+      ]
+    },
+    {
+      "Subject": "Narrator",
+      "dialogueText": "She looks put-together for maintaining consciousness",
+      "choices":
+      [
+        {
+          "Text": "",
+          "Rapport": 0
+        },
+        {
+          "Text": "",
+          "Rapport": 0
+        },
+        {
+          "Text": "",
+          "Rapport": 0
+        }
+      ]
+    },
+    {
+      "Subject": "Narrator",
+      "dialogueText": "for upwards of 30 hours, which is to say, still standing. ",
+      "choices":
+      [
+        {
+          "Text": "",
+          "Rapport": 0
+        },
+        {
+          "Text": "",
+          "Rapport": 0
+        },
+        {
+          "Text": "",
+          "Rapport": 0
+        }
+      ]
+    },
+    {
+      "Subject": "Narrator",
+      "dialogueText": "Her professional, fashionable makeup",
+      "choices":
+      [
+        {
+          "Text": "",
+          "Rapport": 0
+        },
+        {
+          "Text": "",
+          "Rapport": 0
+        },
+        {
+          "Text": "",
+          "Rapport": 0
+        }
+      ]
+    },
+    {
+      "Subject": "Narrator",
+      "dialogueText": "only manages to mostly disguise the deep circles under her eyes.",
+      "choices":
+      [
+        {
+          "Text": "",
+          "Rapport": 0
+        },
+        {
+          "Text": "",
+          "Rapport": 0
+        },
+        {
+          "Text": "",
+          "Rapport": 0
+        }
+      ]
+    },
+    {
+      "Subject": "Narrator",
+      "dialogueText": "Meeting your gaze, she opens the door further.",
+      "choices":
+      [
+        {
+          "Text": "",
+          "Rapport": 0
+        },
+        {
+          "Text": "",
+          "Rapport": 0
+        },
+        {
+          "Text": "",
+          "Rapport": 0
+        }
+      ]
+    },
+    {
+      "Subject": "Narrator",
+      "dialogueText": "This is not going to be easy. ",
+      "choices":
+      [
+        {
+          "Text": "",
+          "Rapport": 0
+        },
+        {
+          "Text": "",
+          "Rapport": 0
+        },
+        {
+          "Text": "",
+          "Rapport": 0
+        }
+      ]
+    },
+    {
+      "Subject": "Player",
+      "dialogueText": "G-good evening, ma- I mean- Linda!",
+      "choices":
+      [
+        {
+          "Text": "",
+          "Rapport": 0
+        },
+        {
+          "Text": "",
+          "Rapport": 0
+        },
+        {
+          "Text": "",
+          "Rapport": 0
+        }
+      ]
+    },
+    {
+      "Subject": "Linda",
+      "dialogueText": "Hm.",
+      "choices":
+      [
+        {
+          "Text": "",
+          "Rapport": 0
+        },
+        {
+          "Text": "",
+          "Rapport": 0
+        },
+        {
+          "Text": "",
+          "Rapport": 0
+        }
+      ]
+    },
+    {
+      "Subject": "Linda",
+      "dialogueText": "On time. Good.",
+      "choices":
+      [
+        {
+          "Text": "",
+          "Rapport": 0
+        },
+        {
+          "Text": "",
+          "Rapport": 0
+        },
+        {
+          "Text": "",
+          "Rapport": 0
+        }
+      ]
+    },
+    {
+      "Subject": "Linda",
+      "dialogueText": "We’ve got 30 minutes until the restaurant closes.",
+      "choices":
+      [
+        {
+          "Text": "",
+          "Rapport": 0
+        },
+        {
+          "Text": "",
+          "Rapport": 0
+        },
+        {
+          "Text": "",
+          "Rapport": 0
+        }
+      ]
+    },
+    {
+      "Subject": "Linda",
+      "dialogueText": "I’ve got a 10:30, so let’s try to stay on schedule.",
+      "choices":
+      [
+        {
+          "Text": "",
+          "Rapport": 0
+        },
+        {
+          "Text": "",
+          "Rapport": 0
+        },
+        {
+          "Text": "",
+          "Rapport": 0
+        }
+      ]
+    },
+    {
+      "Subject": "Narrator",
+      "dialogueText": "She yawns, squinting into the moonlight as though it were blinding.",
+      "choices":
+      [
+        {
+          "Text": "Don’t worry, I called ahead.",
+          "Rapport": 1
+        },
+        {
+          "Text": "You look like you haven’t seen the sun in years.",
+          "Rapport": -1
+        },
+        {
+          "Text": "…How are you?",
+          "Rapport": 0
+        }
+      ]
+    },
+    {
+      "Subject": "Linda",
+      "dialogueText": "Hm.",
+      "choices":
+      [
+        {
+          "Text": "",
+          "Rapport": 0
+        },
+        {
+          "Text": "",
+          "Rapport": 0
+        },
+        {
+          "Text": "",
+          "Rapport": 0
+        }
+      ]
+    },
+    {
+      "Subject": "Linda",
+      "dialogueText": "We’d best get moving.",
+      "choices":
+      [
+        {
+          "Text": "",
+          "Rapport": 0
+        },
+        {
+          "Text": "",
+          "Rapport": 0
+        },
+        {
+          "Text": "",
+          "Rapport": 0
+        }
+      ]
+    }
+  ],
+  "walkingDialogue":
+  [
+    {
+      "Subject": "Narrator",
+      "dialogueText": "Ah, Buccabellie’s. The one and only italian restaurant in town."
+      
+    },
+    {
+      "Subject": "Narrator",
+      "dialogueText": "You figured it was the most natural location to get these suspects close to garlic."
+      
+    },
+    {
+      "Subject": "Narrator",
+      "dialogueText": "You mentally apologize to the single server left in the restaurant, who you can feel glaring at you."
+      
+    },
+    {
+      "Subject": "Narrator",
+      "dialogueText": "Linda sits opposite you, unbothered."
+      
+    },
+    {
+      "Subject": "Narrator",
+      "dialogueText": "You’ve got a plan. The garlic knot lasagna special."
+      
+    },
+    {
+      "Subject": "Narrator",
+      "dialogueText": "A horrifying monstrosity of carbohydrates, aggressively reeking of garlic. It’s your best shot."
+      
+    },
+    {
+      "Subject": "Narrator",
+      "dialogueText": "Even the picture on the menu intimidates you."
+      
+    },
+    {
+      "Subject": "Linda",
+      "dialogueText": "So, have you brought your resume so that I can review it?"
+      
+    },
+    {
+      "Subject": "Player",
+      "dialogueText": "…My resume?"
+      
+    },
+    {
+      "Subject": "Player",
+      "dialogueText": "What for?"
+      
+    },
+    {
+      "Subject": "Linda",
+      "dialogueText": "First dates typically involve finding common ground, yes? "
+      
+    },
+    {
+      "Subject": "Linda",
+      "dialogueText": "How many years of work experience do you have? "
+      
+    },
+    {
+      "Subject": "Player",
+      "dialogueText": "Uh… I had a summer job at the grocery store."
+      
+    },
+    {
+      "Subject": "Linda",
+      "dialogueText": "Retail? That’s workable. Do you find mindless work satisfying?"
+      
+    },
+    {
+      "Subject": "Player",
+      "dialogueText": "Excuse me? "
+      
+    },
+    {
+      "Subject": "Linda",
+      "dialogueText": "What would you say is your greatest strength?"
+      
+    },
+    {
+      "Subject": "Player",
+      "dialogueText": "Uh, a keen eye for details?"
+      
+    },
+    {
+      "Subject": "Narrator",
+      "dialogueText": "For a moment, Linda’s hand rises to her mouth, as if on instinct."
+      
+    },
+    {
+      "Subject": "Linda",
+      "dialogueText": "Interesting."
+      
+    },
+    {
+      "Subject": "Narrator",
+      "dialogueText": "The waiter, with barely restrained frustration, stops by the table. It’s time for phase two."
+      
+    },
+    {
+      "Subject": "Narrator",
+      "dialogueText": "The biggest item on the menu, 25 minutes before closing.  "
+      
+    },
+    {
+      "Subject": "Narrator",
+      "dialogueText": "You can feel the back of your head beginning to melt from the glare. "
+      
+    },
+    {
+      "Subject": "Narrator",
+      "dialogueText": "You can feel the back of your head beginning to melt from the glare. "
+      
+    },
+    {
+      "Subject": "Linda",
+      "dialogueText": "I don’t think I have any more questions. What about you? "
+      
+    },
+    {
+      "Subject": "Narrator",
+      "dialogueText": "Shit. Shit shit shit. How do you continue a conversation?"
+      
+    },
+    {
+      "Subject": "Player",
+      "dialogueText": "Um. What about– your hobbies? What do you do in your free time? "
+      
+    },
+    {
+      "Subject": "Linda",
+      "dialogueText": "Stare at walls. Sleep. "
+      
+    },
+    {
+      "Subject": "Player",
+      "dialogueText": "Um… What’s work like?"
+      
+    },
+    {
+      "Subject": "Linda",
+      "dialogueText": "I’ve been staring at spreadsheets for 36 hours."
+      
+    },
+    {
+      "Subject": "Linda",
+      "dialogueText": "I can’t say it’s a particularly thrilling topic of conversation."
+      
+    },
+    {
+      "Subject": "Narrator",
+      "dialogueText": "The food arrives."
+      
+    },
+    {
+      "Subject": "Narrator",
+      "dialogueText": "Linda pokes hesitantly at the mild plate of pasta before her. Is she too tired to eat?"
+      
+    },
+    {
+      "Subject": "Narrator",
+      "dialogueText": "You stare down at your own plate of food. It's horrifying."
+      
+    },
+    {
+      "Subject": "Narrator",
+      "dialogueText": "The heaping lasagna, most likely containing an evening’s worth of spit from your server,"
+      
+    },
+
+    {
+      "Subject": "Narrator",
+      "dialogueText": "The sight of the food is overwhelming, and the stench of garlic visibly wafts into the air. "
+      
+    },
+
+    {
+      "Subject": "Linda",
+      "dialogueText": "ACHOO!"
+      
+    },
+    {
+      "Subject": "Player",
+      "dialogueText": "Ha… Ha ha… Mmmm!"
+      
+    },
+    {
+      "Subject": "Narrator",
+      "dialogueText": "You shovel a spoonful of the heaving mass into your mouth. You swallow it like a pill, as fast as possible."
+      
+    },
+    {
+      "Subject": "Narrator",
+      "dialogueText": "You consider expelling all that food in the desperate prayer that it might just cover that stench."
+      
+    },
+    {
+      "Subject": "Narrator",
+      "dialogueText": "The bill is served with your food. They want you out of there."
+      
+    },
+    {
+      "Subject": "Linda",
+      "dialogueText": "The service here is fast."
+      
+    },
+    {
+      "Subject": "Player",
+      "dialogueText": "It’s special, for us."
+      
+    },
+    {
+      "Subject": "Narrator",
+      "dialogueText": "Oh god. It’s already almost over."
+      
+    },
+    {
+      "Subject": "Narrator",
+      "dialogueText": "Your stress spikes as you simultaneously exhale. Fuck."
+      
+    },
+    {
+      "Subject": "Narrator",
+      "dialogueText": "Is this where it’s going to end? You feel like you’ve gotten nowhere with her."
+      
+    },
+    {
+      "Subject": "Narrator",
+      "dialogueText": "Do you feel remotely certain yet?"
+      
+    },
+    {
+      "Subject": "Narrator",
+      "dialogueText": "Is there any way you can extend this?"
+      
+    },
+    {
+      "Subject": "Player",
+      "dialogueText": "H-hey! Do you have somewhere to be?"
+      
+    },
+    {
+      "Subject": "Linda",
+      "dialogueText": "…Home. For work. Although I’ve got to run an errand."
+      
+    },
+    {
+      "Subject": "Player",
+      "dialogueText": "I-I’ll go with you! I’ve got, uh, all the time in the world?"
+      
+    },
+    {
+      "Subject": "Narrator",
+      "dialogueText": "What the fuck are you doing. Is she glaring at you?"
+      
+    },
+    {
+      "Subject": "Linda",
+      "dialogueText": "If you… insist."
+      
+    }
+  ],
+  "restaurantDialogue":
+  [
+    {
+      "Subject": "Narrator",
+      "dialogueText": "The silence is deafening as you make the 15 minute stroll to the pharmacy."
+      
+    },
+    {
+      "Subject": "Narrator",
+      "dialogueText": "She walks quickly, with purpose– you struggle to keep up with her pace."
+      
+    },
+    {
+      "Subject": "Linda",
+      "dialogueText": "…"
+      
+    },
+    {
+      "Subject": "Linda",
+      "dialogueText": "Lovely weather, we’re having. Yes?"
+      
+    },
+    {
+      "Subject": "Player",
+      "dialogueText": "It’s pitch black out?"
+      
+    },
+    {
+      "Subject": "Linda",
+      "dialogueText": "I consider that good weather."
+      
+    },
+    {
+      "Subject": "Player",
+      "dialogueText": "Haha... ha."
+      
+    },
+    {
+      "Subject": "Narrator",
+      "dialogueText": "What the hell are you even doing at this point? Fuck it."
+      
+    },
+    {
+      "Subject": "Narrator",
+      "dialogueText": "You finally reach the little 24/7 corner store just around the bend from Linda’s apartment."
+      
+    },
+    {
+      "Subject": "Narrator",
+      "dialogueText": "The shelves are claustrophobically close,"
+      
+    },
+    {
+      "Subject": "Narrator",
+      "dialogueText": "and one teenage cashier sits at the counter, barely conscious."
+      
+    },
+    {
+      "Subject": "Player",
+      "dialogueText": "Soooo…. What’s this little trip for?"
+      
+    },
+    {
+      "Subject": "Linda",
+      "dialogueText": "Gauze. First aid."
+      
+    },
+    {
+      "Subject": "Narrator",
+      "dialogueText": "How’s she getting injured at a desk job?"
+      
+    },
+    {
+      "Subject": "Narrator",
+      "dialogueText": "Linda looks over to the single cashier."
+      
+    },
+    {
+      "Subject": "Player",
+      "dialogueText": "…Thinking about them?"
+      
+    },
+    {
+      "Subject": "Player",
+      "dialogueText": "Do you relate?"
+      
+    },
+    {
+      "Subject": "Linda",
+      "dialogueText": "…Nobody works for fun."
+      
+    },
+    {
+      "Subject": "Linda",
+      "dialogueText": "They look– so young."
+      
+    },
+    {
+      "Subject": "Linda",
+      "dialogueText": "I don’t know. I just, well, wish I could do something to help. "
+      
+    },
+    {
+      "Subject": "Linda",
+      "dialogueText": "Something to help change their circumstances. Something to– "
+      
+    },
+    {
+      "Subject": "Linda",
+      "dialogueText": "Well, shopping this late might not be helping, ha."
+      
+    },
+    {
+      "Subject": "Narrator",
+      "dialogueText": "You walk back to her apartment in the dark. You’re alone."
+      
+    },
+    {
+      "Subject": "Narrator",
+      "dialogueText": "The hairs on your neck won’t settle. "
+      
+    },
+    {
+      "Subject": "Narrator",
+      "dialogueText": "You feel your skin crawl, your eyes unable to keep from darting to her every couple of steps."
+      
+    },
+    {
+      "Subject": "Narrator",
+      "dialogueText": "She wouldn’t attack you after all this, would she?"
+      
+    },
+    {
+      "Subject": "Narrator",
+      "dialogueText": "Thankfully, the trip is fast. You reach her doorway…"
+      
+    }
+  ],
+  "endDialogue":
+  [
+    {
+      "Subject": "Linda",
+      "dialogueText": "Hey."
+      
+    },
+    {
+      "Subject": "Linda",
+      "dialogueText": "…Thanks for tonight."
+      
+    },
+    {
+      "Subject": "Linda",
+      "dialogueText": "It’s rare I get a chance to… Just spend time with someone, my age."
+      
+    },
+    {
+      "Subject": "Linda",
+      "dialogueText": "It was more enjoyable than I expected."
+      
+    },
+    {
+      "Subject": "Linda",
+      "dialogueText": "I’ll see you around, alright? Bye."
+      
+    }
+  ]
+}

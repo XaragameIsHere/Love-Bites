@@ -63,7 +63,7 @@ public class playerUIController : MonoBehaviour
 				case "Narrator":
 					iconImage.sprite = NarratorIcon;
 					break;
-				case "Date":
+				case "Linda":
 					iconImage.sprite = DateIcon;
 					break;
 			}
@@ -82,7 +82,7 @@ public class playerUIController : MonoBehaviour
             yield return new WaitUntil(() => Input.GetButtonDown("Submit"));
 	            
             
-			if (line.choices != null)
+			if (line.choices != null && line.choices[1].Text != "")
 			{
 				print(line.choices.Length);
 				choicesBox.transform.DOLocalMoveX(960, 1);
